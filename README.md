@@ -49,7 +49,6 @@ docker-compose up
 
 ## Веб-интерфейс
 
-![Веб-интерфейс](screenshots/screenshot1.png)
 ![Веб-интерфейс](screenshots/screenshot2.png)
 ![Веб-интерфейс](screenshots/screenshot3.png)
 ![Веб-интерфейс](screenshots/screenshot4.png)
