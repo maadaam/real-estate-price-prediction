@@ -1,0 +1,43 @@
+# Системные файлы
+.DS_Store
+*.swp
+*.swo
+*~
+Thumbs.db
+
+# Python кэш
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Виртуальные окружения
+venv/
+.venv/
+env/
+flats_model/ 
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp
+*.bak
+
+data/
+
+.ipynb_checkpoints/
+
+# CatBoost временные файлы 
+catboost_info/
+
+# Конфиденциальное
+.env
+.env.local
+secrets.json
+*.key

@@ -1,0 +1,24 @@
+# Игнорируем не нужные для сборки файлы
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.git/
+.gitignore
+.vscode/
+.idea/
+*.log
+*.tmp
+*.swp
+*.swo
+*.db
+.DS_Store
+*.ipynb
+.ipynb_checkpoints
+data/raw/  # сырые данные
+notebooks/  # ноутбуки
+models_corrected_final/catboost_info/  # временные файлы CatBoost
